@@ -1,0 +1,1 @@
+欢迎使用 Wechat Easy SDK Go。本SDK非官方实现
