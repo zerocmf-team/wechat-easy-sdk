@@ -1,3 +1,3 @@
-module github.com/zerocmf/wechat-easy-sdk
+module github.com/zerocmf/wechatEasySdk
 
 go 1.17
